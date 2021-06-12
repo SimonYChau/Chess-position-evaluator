@@ -1,6 +1,4 @@
-Developed a simple evaluation function by taking into account material value and a basic understanding of positional value
-
-Analyzes a game state and computes which side is better
+# Simple evaluation function
 
 Piece values and Piece-Square Tables from: 
 
